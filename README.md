@@ -104,7 +104,7 @@ The bundled 6 MV and 18 MV fluence spectra are **analytical approximations** int
 
 ## References
 
-- IAEA TRS-398 (2000): *Absorbed Dose Determination in External Beam Radiotherapy*
+- IAEA TRS-398: *Absorbed Dose Determination in External Beam Radiotherapy*
 - [NIST XCOM](https://physics.nist.gov/PhysRefData/Xcom) — mass energy-absorption coefficients
 - [PTW 30013 Farmer Chamber specifications](https://www.ptwdosimetry.com/fileadmin/user_upload/PTW/30013_en.pdf)
 - [IAEA Phase-Space Database](https://www-nds.iaea.org/phsp)
